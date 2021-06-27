@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @salarchandio
 - 👀 I’m interested in new ways to code and solve problems
 - 🌱 I’m currently learning how to develop a E-Commerce website
-- 💞️ I’m looking to collaborate on differnet projects that are outside my comfort zone
+- 💞️ I’m looking to collaborate on different projects that are outside my comfort zone
 - 📫 Email me at salar.chandio@gmail.com
 
 <!---
